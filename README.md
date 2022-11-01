@@ -1,2 +1,2 @@
-# formul-rio
+# formulario
 perguntas para o usuario
